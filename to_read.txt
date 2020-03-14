@@ -1,1 +1,2 @@
-xxx
+xxxx
+this is a test in order to verify how git works
